@@ -1,3 +1,0 @@
-displayName = Traveling Merchant Everyday
-author = Juni Knytt
-version = 1.0

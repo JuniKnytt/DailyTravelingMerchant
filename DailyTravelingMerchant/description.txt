@@ -1,1 +1,0 @@
-This mod attempts to spawn the Traveling Merchant daily, assuming his spawn criteria is met.
